@@ -1,6 +1,6 @@
 # GitHub Replica
 
-Matt Brocklehurst / www.xor.me.uk
+Matt Brocklehurst 
 
 This tool allows you to clone all GitHub repositories for a specified user. It utilizes a GitHub token for authentication, enabling access to both public and private repositories (depending on the permissions granted to the token).
 
